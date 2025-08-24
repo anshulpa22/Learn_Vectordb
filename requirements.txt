@@ -1,0 +1,5 @@
+qdrant-client
+numpy
+requests
+fastapi
+pydantic
